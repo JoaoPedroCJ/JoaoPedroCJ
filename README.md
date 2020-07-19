@@ -31,7 +31,7 @@
 - **Languages :** JavaScript, TypeScript, PHP
 - **Hobbies :** Play Games :video_game:, Music :headphones: & Read :books:
 - **Fact :** First solve the problem, then write the code :heart:
-- **Organisation :** Nerdvana
+- **Organization :** Nerdvana
 
 **Languages and Tools:**
 
@@ -46,4 +46,4 @@
 <code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/vscode.svg"></code>
 <code><img height="20" src="https://cdn.nerdvana.com.br/ghpassets/terminal.svg"></code>
 
-![JoaoPedroCJ github stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCJ&show_icons=true&theme=tokyonight&hide_border=true)
+![JoaoPedroCJ github stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCJ&show_icons=true&theme=tokyonight)
