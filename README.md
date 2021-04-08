@@ -7,7 +7,7 @@
 <br />
 <img align="right" alt="GIF" src="./coding.gif" />
 
-### I'm [João Pedro](#)
+### I'm [João Pedro](https://github.com/JoaoPedroCJ)
 
 - An enthusiast of new technologies and a JavaScript fan.
 - Passionate about changing people's lives through programming.
@@ -52,7 +52,7 @@
 ![Expo](https://img.shields.io/badge/Expo-000020.svg?&style=flat&logo=expo&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-404d59.svg?&logo=express&style=flat&logoColor=white)&nbsp;
-![Fastify](https://img.shields.io/badge/Express-000000.svg?&logo=fastify&style=flat&logoColor=white)&nbsp;
+![Fastify](https://img.shields.io/badge/Fastify-000000.svg?&logo=fastify&style=flat&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?&logo=ionic&style=flat&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)&nbsp;
