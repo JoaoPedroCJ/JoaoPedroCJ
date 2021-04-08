@@ -7,7 +7,7 @@
 <br />
 <img align="right" alt="GIF" src="./coding.gif" />
 
-### I'm [João Pedro]()
+### I'm [João Pedro](#)
 
 - An enthusiast of new technologies and a JavaScript fan.
 - Passionate about changing people's lives through programming.
