@@ -10,6 +10,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=joaopedrocj&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15"/>
 </div>
 
+<br />
+
 <img align="right" alt="GIF" src="./coding.gif" />
 
 ### I'm [João Pedro](https://github.com/JoaoPedroCJ)
