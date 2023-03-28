@@ -66,4 +66,4 @@
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 
-[JoaoPedroCJ github stats](./profile-3d-contrib/profile-night-rainbow.svg)
+![JoaoPedroCJ github stats](./profile-3d-contrib/profile-night-rainbow.svg)
