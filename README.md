@@ -5,6 +5,11 @@
 [![João Pedro Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/haojpc)
 
 <br />
+
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=joaopedrocj&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15"/>
+</div>
+
 <img align="right" alt="GIF" src="./coding.gif" />
 
 ### I'm [João Pedro](https://github.com/JoaoPedroCJ)
@@ -59,4 +64,4 @@
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 
-![JoaoPedroCJ github stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCJ&show_icons=true&theme=tokyonight)
+[JoaoPedroCJ github stats](./profile-3d-contrib/profile-night-rainbow.svg)
