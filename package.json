@@ -2,18 +2,24 @@
   "name": "joaopedrocj",
   "version": "1.0.0",
   "description": "A personal card for JoaoPedroCJ",
-  "main": "bin/card.js",
   "scripts": {
-    "card": "node ."
+    "card": "node bin/card.js"
+  },
+  "bin": {
+    "card": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaoPedroCJ/JoaoPedroCJ.git"
   },
   "author": "João Pedro Coelho Jácome <joaopedrocj@gmail.com> (https://www.nerdvana.com.br)",
-  "license": "MIT",
+  "dependencies": {
+    "npxcard": "^0.1.0"
+  },
   "keywords": [
     "npxcard",
     "npx",
     "card"
   ],
-  "dependencies": {
-    "npxcard": "^0.1.0"
-  }
+  "license": "MIT"
 }
